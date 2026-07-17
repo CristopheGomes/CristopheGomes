@@ -36,7 +36,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm  am Cristophe<br><br>- 🔭I'm not working on anything.<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time, I create simple games.</p>
+<p data-importer="text" align="left">I'm  am Cristophe<br><br>- 🔭I'm not working on anything.<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time, I create simple games.<br>- Currently pursuing a technical course in digital game programming at SENAI.</p>
 
 ###
 
@@ -64,17 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">📈 My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/CristopheGomes/CristopheGomes/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/CristopheGomes/CristopheGomes/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
