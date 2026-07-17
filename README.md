@@ -36,7 +36,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm  am Cristophe<br><br>- 🔭I'm not working on anything.<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time, I create simple games.<br>- Currently pursuing a technical course in digital game programming at SENAI.</p>
+<p data-importer="text" align="left">I'm  am Cristophe<br><br>- 🔭I'm not working on anything.<br>- 📚 I'm currently learning C#. Currently pursuing a technical course in digital game programming at SENAI.<br>- ⚡ In my free time, I create simple games.</p>
 
 ###
 
